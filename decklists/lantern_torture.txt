@@ -1,0 +1,76 @@
+1 Altar of the Brood
+1 Animate Dead
+1 Basalt Monolith
+1 Black Sun's Zenith
+1 Bloodchief Ascension
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Buried Ruin
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Chainer, Dementia Master
+1 Codex Shredder
+1 Crucible of Worlds
+1 Crypt Ghast
+1 Crypt of Agadeem
+1 Deadly Tempest
+1 Doom Whisperer
+1 Dread Presence
+1 Dread Summons
+1 Elixir of Immortality
+1 Erebos, God of the Dead
+1 Expedition Map
+1 Eye Collector
+1 Feldon's Cane
+1 Fellwar Stone
+1 Footbottom Feast
+1 Geth, Lord of the Vault
+1 Ghoulcaller's Bell
+1 Golgari Thug
+1 Gravepurge
+1 Gray Merchant of Asphodel
+1 Grindclock
+1 Grindstone
+1 Heartstone
+1 Inventors' Fair
+1 Inverter of Truth
+1 Isolated Watchtower
+1 Jet Medallion
+1 Kozilek, Butcher of Truth
+1 Lantern of Insight
+1 Magus of the Coffers
+1 Massacre Girl
+1 Massacre Wurm
+1 Mesmeric Orb
+1 Millikin
+1 Mind Stone
+1 Mindcrank
+1 Morality Shift
+1 Myriad Landscape
+1 Mystic Forge
+1 Necropotence
+1 Night's Whisper
+1 Nihil Spellbomb
+1 Nirkana Revenant
+1 Painter's Servant
+1 Perpetual Timepiece
+1 Phyrexian Arena
+1 Plaguecrafter
+1 Pyxis of Pandemonium
+1 Read the Bones
+1 Scavenger Grounds
+1 Sensei's Divining Top
+1 Sepulchral Primordial
+1 Sewer Nemesis
+1 Shared Trauma
+1 Sol Ring
+1 Songs of the Damned
+1 Stinkweed Imp
+25 Swamp
+1 Syphon Mind
+1 Syr Konrad, the Grim
+1 Torment of Hailfire
+1 Tormod's Crypt
+1 Urborg, Tomb of Yawgmoth
+1 Wand of Denial
+1 Worn Powerstone
