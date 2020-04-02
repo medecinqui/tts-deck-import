@@ -14,7 +14,7 @@
 1 Feral Hydra
 1 Finale of Devastation
 1 Finale of Revelation
-17 Forest
+19 Forest
 1 Form of the Mulldrifter
 1 Gargos, Vicious Watcher
 1 Generated Horizons
@@ -27,7 +27,6 @@
 1 Gyre Sage
 1 Hooded Hydra
 1 Hungering Hydra
-1 Hydra Broodmaster
 1 Hydra Omnivore
 1 Hydra's Growth
 1 Hydradoodle
@@ -44,7 +43,6 @@
 1 Mistcutter Hydra
 1 Mystic Snake
 1 Natural Order
-1 Polukranos, World Eater
 1 Primal Vigor
 1 Prime Speaker Zegana
 1 Primordial Hydra
