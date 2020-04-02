@@ -1,0 +1,87 @@
+1 Ancient Tomb
+1 Anger
+1 Animate Dead
+1 Archetype of Finality
+1 Asceticism
+1 Assassin's Trophy
+1 Avatar of Slaughter
+1 Beast Within
+1 Beastmaster Ascension
+1 Birds of Paradise
+1 Blasphemous Act
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Buried Alive
+1 City of Brass
+1 Command Tower
+1 Cultivate
+1 Curse of Opulence
+1 Damnation
+1 Deathreap Ritual
+1 Decimate
+1 Demonic Tutor
+1 Disrupt Decorum
+1 Dragonskull Summit
+1 Dread
+1 Dryad of the Ilysian Grove
+1 Elves of Deep Shadow
+1 Entomb
+1 Eternal Witness
+1 Exotic Orchard
+1 Faithless Looting
+1 Finale of Devastation
+8 Forest
+1 Fumiko the Lowblood
+1 Genesis
+1 Goblin Spymaster
+1 Golgari Charm
+1 Grenzo, Havoc Raiser
+1 Grim Haruspex
+1 Harvester of Souls
+1 Heroic Intervention
+1 Hunted Dragon
+1 Hunted Horror
+1 Hunted Troll
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Krosan Grip
+1 Leyline Prowler
+1 Mana Confluence
+1 Marchesa's Decree
+1 Mass Hysteria
+4 Mountain
+1 Natural Order
+1 Nature's Lore
+1 Night's Whisper
+1 Ohran Frostfang
+1 Overgrown Tomb
+1 Pathbreaker Ibex
+1 Rampant Growth
+1 Read the Bones
+1 Reanimate
+1 Revenge of Ravens
+1 Rhythm of the Wild
+1 Rite of the Raging Storm
+1 Rogue's Passage
+1 Rootbound Crag
+1 Royal Assassin
+1 Ruric Thar, the Unbowed
+1 Sakura-Tribe Elder
+1 Savage Lands
+1 Sign in Blood
+1 Skyshroud Claim
+1 Solemn Simulacrum
+1 Stomping Ground
+1 Sudden Spoiling
+5 Swamp
+1 Swarmyard
+1 Sylvan Caryatid
+1 Thantis, the Warweaver
+1 Toxic Deluge
+1 Verdant Catacombs
+1 Warmonger Hellkite
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Worldly Tutor
+

@@ -81,7 +81,7 @@ def stitchDimensions(num, limX=xDim, limY=yDim):
     if rows > limY: raise Exception("too many cards to fit on sheet")
     return (columns, rows)
 
-def transformObject(posX = 0, posY = 0, posZ = 0, rotX = 0, rotY = 180,
+def transformObject(posX = 0, posY = 0, posZ = 0, rotX = 0, rotY = 0,
     rotZ = 180, scaleX = 1, scaleY = 1, scaleZ = 1):
 
     return {
