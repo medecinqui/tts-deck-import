@@ -1,0 +1,67 @@
+1 Ampryn Tactician
+1 Arcades Sabboth
+1 Architects of Will
+1 Atogatog
+1 Blood Baron of Vizkopa
+1 Blood Host
+1 Cabal Patriarch
+1 Council of the Absolute
+1 Driver of the Dead
+1 Hand of Justice
+1 High Priest of Penance
+1 Hythonia the Cruel
+1 Jalira, Master Polymorphist
+1 Keeper of Tresserhorn
+1 King Macar, the Gold-Cursed
+1 Kongming, "Sleeping Dragon"
+1 Markov Patrician
+1 Maw of the Obzedat
+1 Maze Sentinel
+1 Midnight Entourage
+1 Rosheen Meanderer
+1 Saprazzan Heir
+1 Soldevi Sage
+1 Sorceress Queen
+1 Spirit of the Labyrinth
+1 Stronghold Biologist
+1 Stronghold Machinist
+1 Tasigur, the Golden Fang
+1 Teysa, Envoy of Ghosts
+1 Tithe Drinker
+1 Vampire Noble
+1 Vampire Sovereign
+1 Vampire Warlord
+1 Vedalken Plotter
+1 Bargaining Table
+1 Blood Tithe
+1 Contemplation
+1 Cruel Edict
+1 Dark Tutelage
+1 Deja Vu
+1 Devour Flesh
+1 Dragon Throne of Tarkir
+1 Elusive Tormentor
+1 Fall of the Gavel
+1 Famine
+1 Flash of Insight
+1 Ghoulflesh
+1 Gonti's Machinations
+1 Knighthood
+1 Kyren Negotiations
+1 Military Intelligence
+1 Murder
+1 Order of Succession
+1 Sanctimony
+1 Sands of Delirium
+1 Sigil of the Empty Throne
+1 Throne of Bone
+1 Throne of Empires
+1 Throne of Geth
+1 Tribute to Hunger
+1 Twisted Justice
+1 Void
+4 Forest
+7 Island
+4 Mountain
+8 Plains
+15 Swamp
