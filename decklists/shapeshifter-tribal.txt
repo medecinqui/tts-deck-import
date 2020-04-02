@@ -1,0 +1,84 @@
+1 Admiral Beckett Brass
+1 Amoeboid Changeling
+1 Ancient Amphitheater
+1 Arcane Adaptation
+1 Assassin's Trophy
+1 Atla Palani, Nest Tender
+1 Auntie's Hovel
+1 Avian Changeling
+1 Cairn Wanderer
+1 Chameleon Colossus
+1 Changeling Outcast
+1 Changeling Sentinel
+1 Changeling Titan
+1 Chromatic Lantern
+1 Cloudshredder Sliver
+1 Coat of Arms
+1 Command Tower
+1 Crib Swap
+1 Cultivate
+1 Descendants' Path
+1 Didgeridoo
+1 Dryad of the Ilysian Grove
+1 Elder Pine of Jukai
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Farseek
+1 Fellwar Stone
+1 Fist of Suns
+1 Flamekin Village
+10 Forest
+1 Fractured Identity
+1 Gallia of the Endless Dance
+1 Gemhide Sliver
+1 Gilt-Leaf Palace
+1 Graveshifter
+1 Harabaz Druid
+1 Herald's Horn
+1 Impostor of the Sixth Pride
+4 Island
+1 Jodah, Archmage Eternal
+1 Kodama's Reach
+1 Lightning Greaves
+1 Loam Dweller
+1 Mass Appeal
+1 Merrow Commerce
+1 Metallic Mimic
+1 Mirror Entity
+1 Morophon, the Boundless
+2 Mountain
+1 Murmuring Bosk
+1 Mutavault
+1 Myr Reservoir
+1 Patriarch's Bidding
+5 Plains
+1 Qasali Slingers
+1 Realm-Cloaked Giant // Cast Off
+1 Reliquary Tower
+1 Rhythm of the Wild
+1 Risen Reef
+1 Sanctum of Ugin
+1 Secluded Glen
+1 Shapesharer
+1 Shields of Velis Vel
+1 Skeletal Changeling
+1 Sol Ring
+1 Swamp
+1 Swarmyard
+1 Swiftfoot Boots
+1 Taurean Mauler
+1 Temple of the False God
+1 Thran Dynamo
+1 Timber Protector
+1 Turtleshell Changeling
+1 Unesh, Criosphinx Sovereign
+1 Universal Automaton
+1 Unsettled Mariner
+1 Urza's Incubator
+1 Venomous Changeling
+1 Volatile Claws
+1 Wanderwine Hub
+1 Whelming Wave
+1 Woodland Changeling
+1 Xenograft
+
