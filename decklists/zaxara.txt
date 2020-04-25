@@ -1,0 +1,81 @@
+1 Altered Ego
+1 Arcane Denial
+1 Arcane Signet
+1 Assassin's Trophy
+1 Birds of Paradise
+1 Boundless Realms
+1 Breeding Pool
+1 Chromatic Lantern
+1 City of Brass
+1 Command Tower
+1 Cultivate
+1 Curse of the Swine
+1 Deadly Rollick
+1 Delay
+1 Demonic Tutor
+1 Dryad of the Ilysian Grove
+1 Echo of Eons
+1 Elvish Mystic
+1 Eternal Witness
+1 Exsanguinate
+1 Fabled Passage
+1 Farseek
+1 Fetid Pools
+1 Fierce Guardianship
+1 Frantic Search
+1 Freed from the Real
+1 Herald of Secret Streams
+1 Hydroid Krasis
+1 Kodama's Reach
+1 Kruphix, God of Horizons
+1 Lightning Greaves
+1 Mana Confluence
+1 Merchant Scroll
+1 Metallurgic Summonings
+1 Mission Briefing
+1 Mistcutter Hydra
+1 Misty Rainforest
+1 Mystical Tutor
+1 Natural Order
+1 Nature's Lore
+1 Negate
+1 Nyxbloom Ancient
+1 Overgrown Tomb
+1 Pemmin's Aura
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Primordial Hydra
+1 Prismatic Vista
+1 Profane Command
+1 Pull from Tomorrow
+1 Rampant Growth
+1 Regrowth
+1 Reset
+1 Sakura-Tribe Elder
+1 Shark Typhoon
+11 Snow-Covered Forest
+8 Snow-Covered Island
+4 Snow-Covered Swamp
+1 Sol Ring
+1 Steelbane Hydra
+1 Stonecoil Serpent
+1 Stroke of Genius
+1 Sunken Hollow
+1 Swan Song
+1 Thought Vessel
+1 Tidal Barracuda
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Turnabout
+1 Unbound Flourishing
+1 Verdant Catacombs
+1 Villainous Wealth
+1 Voracious Hydra
+1 Watery Grave
+1 Wilderness Reclamation
+1 Windfall
+1 Worldly Tutor
+1 Zagoth Triome
+1 Zaxara, the Exemplary
+
