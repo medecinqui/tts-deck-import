@@ -1,0 +1,5 @@
+1 forest
+1 swamp
+1 plains
+1 island
+1 mountain
