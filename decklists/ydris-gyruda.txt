@@ -1,0 +1,82 @@
+1 Ancestral Vision
+1 Ancient Excavation
+1 Ancient Tomb
+1 Arcane Signet
+1 Assassin's Trophy
+1 Bear Umbra
+1 Blood Crypt
+1 Bloodbraid Elf
+1 Breeding Pool
+1 Cabal Ritual
+1 Clever Impersonator
+1 Coiling Oracle
+1 Command Tower
+1 Counterspell
+1 Demonic Tutor
+1 Desperate Ritual
+1 Dig Through Time
+1 Dimir Signet
+1 Dockside Extortionist
+1 Dramatic Reversal
+1 Echo of Eons
+1 Etali, Primal Storm
+1 Etherium-Horn Sorcerer
+1 Exotic Orchard
+1 Fabled Passage
+1 Fact or Fiction
+1 Fellwar Stone
+1 Field of the Dead
+7 Forest
+1 Grapeshot
+1 Growth Spiral
+1 Gyruda, Doom of Depths
+1 Impulse
+12 Island
+1 Izzet Signet
+1 Jace, Wielder of Mysteries
+1 Kinnan, Bonder Prodigy
+1 Kroxa, Titan of Death's Hunger
+1 Lightning Greaves
+1 Lotus Bloom
+1 Maelstrom Wanderer
+1 Manamorphose
+1 Migration Path
+4 Mountain
+1 Mystic Sanctuary
+1 Nature's Lore
+1 Notion Thief
+1 Past in Flames
+1 Primal Amulet // Primal Wellspring
+1 Raiders' Wake
+1 Rakdos Charm
+1 Rakdos Signet
+1 Rampant Growth
+1 Rashmi, Eternities Crafter
+1 Regrowth
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Runehorn Hellkite
+1 Sakura-Tribe Elder
+1 Seize the Day
+1 Simic Signet
+1 Snap
+1 Solemn Simulacrum
+1 Song of Creation
+1 Spark Double
+1 Steam Vents
+1 Stomping Ground
+1 Swamp
+1 Tendrils of Agony
+1 Terminate
+1 Thassa's Oracle
+1 Thassa, Deep-Dwelling
+1 The Locust God
+1 Thousand-Year Storm
+1 Throes of Chaos
+1 Treasure Cruise
+1 Turnabout
+1 Underworld Breach
+1 Watery Grave
+1 Wheel of Fate
+1 Yidris, Maelstrom Wielder
+
