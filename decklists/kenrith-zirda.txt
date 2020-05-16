@@ -1,0 +1,89 @@
+1 Animate Dead
+1 Archfiend of Ifnir
+1 Astral Drift
+1 Avian Oddity
+1 Biomancer's Familiar
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Buried Alive
+1 Burnished Hart
+1 Caustic Caterpillar
+1 City of Brass
+1 Command Tower
+1 Command the Dreadhorde
+1 Countervailing Winds
+1 Curator of Mysteries
+1 Dauntless Escort
+1 Dawntreader Elk
+1 Decimate
+1 Demonic Tutor
+1 Desert Cerodon
+1 Diligent Farmhand
+1 Drannith Stinger
+1 Elvish Aberration
+1 Embodiment of Spring
+1 Entomb
+1 Eternal Dragon
+1 Exotic Orchard
+1 Faith of the Devoted
+1 Farseek
+1 Final Parting
+1 Finale of Eternity
+4 Forest
+1 Godless Shrine
+1 Granitic Titan
+1 Greater Sandwurm
+1 Hallowed Fountain
+1 Horror of the Broken Lands
+2 Island
+1 Jungle Weaver
+1 Kenrith, the Returned King
+1 Krosan Tusker
+1 Krosan Wayfarer
+1 Lava Serpent
+1 Mana Confluence
+1 Marsh Flats
+1 Migration Path
+2 Mountain
+1 Neutralize
+1 Nimble Obstructionist
+1 Ominous Seas
+1 Overgrown Tomb
+4 Plains
+1 Polluted Delta
+1 Pyrrhic Revival
+1 Qasali Pridemage
+1 Rampaging Hippo
+1 Rampant Growth
+1 Reanimate
+1 Reconnaissance Mission
+1 Sacred Foundry
+1 Sakura-Tribe Elder
+1 Sanctuary Smasher
+1 Scion of Darkness
+1 Selfless Spirit
+1 Shefet Monitor
+1 Songs of the Damned
+1 Splendor Mare
+1 Spore Frog
+1 Steam Vents
+1 Stomping Ground
+1 Striped Riverwinder
+6 Swamp
+1 Tectonic Reformation
+1 Temple Garden
+1 Thrashing Brontodon
+1 Titanoth Rex
+1 Training Grounds
+1 Twilight's Call
+1 Valiant Rescuer
+1 Verdant Catacombs
+1 Vile Manifestation
+1 Void Beckoner
+1 Watery Grave
+1 Wayfarer's Bauble
+1 Wirewood Guardian
+1 Yoked Plowbeast
+1 Zirda, the Dawnwaker
+
