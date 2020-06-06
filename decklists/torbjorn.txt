@@ -1,0 +1,72 @@
+1 Abrade
+1 Anger of the Gods
+1 Angrath's Marauders
+1 Arcane Signet
+1 Burning Earth
+1 By Force
+1 Caged Sun
+1 Cathartic Reunion
+1 Chandra's Regulator
+1 Chandra, Awakened Inferno
+1 Chaos Warp
+1 Citadel of Pain
+1 Commander's Sphere
+1 Commune with Lava
+1 Darksteel Plate
+1 Deflecting Swat
+1 Desert of the Fervent
+1 Dictate of the Twin Gods
+1 Dockside Extortionist
+1 Endless Atlas
+1 Extraplanar Lens
+1 Faithless Looting
+1 Fanatic of Mogis
+1 Fellwar Stone
+1 Fiery Confluence
+1 Flame Rift
+1 Flame Spill
+1 Forgotten Cave
+1 Furnace of Rath
+1 Goblin Sharpshooter
+1 Heartless Hidetsugu
+1 Incendiary Command
+1 Inferno Titan
+1 Insult // Injury
+1 Lightning Greaves
+1 Magus of the Moon
+1 Magus of the Wheel
+1 Mana Geyser
+1 Manabarbs
+1 Neheb, Dreadhorde Champion
+1 Neheb, the Eternal
+1 Nykthos, Shrine to Nyx
+1 Pyroblast
+1 Pyroclasm
+1 Pyrohemia
+1 Rampaging Ferocidon
+1 Red Elemental Blast
+1 Ruby Medallion
+1 Runaway Steam-Kin
+1 Smoke
+1 Smoldering Crater
+30 Snow-Covered Mountain
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spellshock
+1 Spinerock Knoll
+1 Steam Blast
+1 Sulfuric Vortex
+1 Sulfurous Blast
+1 Thermo-Alchemist
+1 Thrill of Possibility
+1 Torbran, Thane of Red Fell
+1 Tormenting Voice
+1 Treasonous Ogre
+1 Underworld Breach
+1 Valakut, the Molten Pinnacle
+1 Volcanic Fallout
+1 War's Toll
+1 Wayfarer's Bauble
+1 Wild Guess
+1 Zo-Zu the Punisher
+
