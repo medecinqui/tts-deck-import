@@ -1,0 +1,70 @@
+1 Acidic Slime
+1 Aerie Ouphes
+1 Armorcraft Judge
+1 Beastcaller Savant
+1 Bloom Hulk
+1 Caller of the Pack
+1 Colossal Majesty
+1 Command Tower
+1 Cosmotronic Wave
+1 Courage in Crisis
+1 Crashing Drawbridge
+1 Crowned Ceratok
+1 Domri Rade
+1 Domri's Ambush
+1 Domri, Anarch of Bolas
+1 Drover of the Mighty
+1 Elvish Mystic
+1 End-Raze Forerunners
+1 Evolution Sage
+1 Exotic Orchard
+1 Ferocity of the Wilds
+1 Fires of Yavimaya
+22 Forest
+1 Garruk's Packleader
+1 Goblin Oriflamme
+1 Goblin War Party
+1 Grumgully, the Generous
+1 Gruul Turf
+1 Gruul War Chant
+1 Harmonize
+1 Hordeling Outburst
+1 Ilysian Caryatid
+1 Inspiring Call
+1 Jiang Yanggu, Wildcrafter
+1 Keeper of Fables
+1 Kenrith's Transformation
+1 Krenko, Tin Street Kingpin
+1 Leafkin Druid
+1 Llanowar Elves
+1 Loyal Guardian
+1 Momentous Fall
+11 Mountain
+1 Nature's Claim
+1 Nylea's Forerunner
+1 Overrun
+1 Paradise Druid
+1 Pollenbright Druid
+1 Prey Upon
+1 Quartzwood Crasher
+1 Quirion Elves
+1 Rampant Growth
+1 Reclamation Sage
+1 Regrowth
+1 Renata, Called to the Hunt
+1 Return to Nature
+1 Rhythm of the Wild
+1 Ridgescale Tusker
+1 Rishkar, Peema Renegade
+1 Saproling Migration
+1 Scuzzback Marauders
+1 Shamanic Revelation
+1 Signal the Clans
+1 Song of Freyalise
+1 Thunderblust
+1 Titanic Brawl
+1 Volt Charge
+1 Wild Cantor
+1 Wild Growth
+1 Wrap in Vigor
+
