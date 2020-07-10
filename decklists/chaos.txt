@@ -1,0 +1,74 @@
+1 Aeon Chronicler
+1 Aeon Engine
+1 Aminatou's Augury
+1 Arcanis the Omnipotent
+1 Bearer of the Heavens
+1 Blatant Thievery
+1 Cascade Bluffs
+1 Chaos Wand
+1 Chaos Warp
+1 Clockspinning
+1 Command Tower
+1 Counterspell
+1 Creepy Doll
+1 Curse of Echoes
+1 Jhoira's Timebug
+1 Elixir of Immortality
+1 Etherium-Horn Sorcerer
+1 Eye of the Storm
+1 Fact or Fiction
+1 Fellwar Stone
+1 Frantic Search
+1 Fury Charm
+1 Gate to the Aether
+1 Goblin Electromancer
+1 Helm of Awakening
+1 Hive Mind
+1 Illusionist's Bracers
+1 Insidious Will
+15 Island
+1 Izzet Signet
+1 Jhoira of the Ghitu
+1 Jhoira's Timebug
+1 Lightning Greaves
+1 Mind's Dilation
+1 Minds Aglow
+14 Mountain
+1 Nevinyrral's Disk
+1 Nezahal, Primal Tide
+1 Omen Machine
+1 Paradox Haze
+1 Perplexing Chimera
+1 Platinum Emperion
+1 Possibility Storm
+1 Propaganda
+1 Proteus Staff
+1 Pyxis of Pandemonium
+1 Radiate
+1 Reforge the Soul
+1 Reins of Power
+1 Reliquary Tower
+1 Treasure Nabber
+1 Shared Fate
+1 Shivan Reef
+1 Sol Ring
+1 Spellweaver Volute
+1 Steam Vents
+1 Stolen Strategy
+1 Sulfur Falls
+1 Swarm Intelligence
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Teferi's Puzzle Box
+1 Thieves' Auction
+1 Tide of War
+1 Time Stretch
+1 Timebender
+1 Timecrafting
+1 Tribute Mage
+1 Twincast
+1 Insurrection
+1 Wild Evocation
+1 Wild Ricochet
+1 Windfall
+
