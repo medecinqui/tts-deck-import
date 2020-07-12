@@ -1,0 +1,77 @@
+1 Ash Barrens
+1 Bankrupt in Blood
+1 Bastion of Remembrance
+1 Blighted Woodland
+1 Blood for Bones
+1 Boneyard Lurker
+1 Butcher of Malakir
+1 Catacomb Sifter
+1 Caustic Caterpillar
+1 Corpse Augur
+1 Dawntreader Elk
+1 Deathsprout
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 End-Raze Forerunners
+1 Evolving Wilds
+1 Falkenrath Noble
+1 Fecundity
+1 Find // Finality
+1 Fleshbag Marauder
+13 Forest
+1 Foul Orchard
+1 Funeral Rites
+1 Gaze of Granite
+1 Glowspore Shaman
+1 Golgari Charm
+1 Golgari Findbroker
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Grisly Salvage
+1 Harmonize
+1 Harrow
+1 Hatchery Spider
+1 Izoni, Thousand-Eyed
+1 Jungle Hollow
+1 Kessig Cagebreakers
+1 Kogla, the Titan Ape
+1 Lifecrafter's Bestiary
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Massacre Girl
+1 Merciless Executioner
+1 Midnight Reaper
+1 Mire Triton
+1 Moldervine Reclamation
+1 Necrotic Wound
+1 Nyx Weaver
+1 Perpetual Timepiece
+1 Phyrexian Plaguelord
+1 Plaguecrafter
+1 Putrefy
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Shriekmaw
+1 Skull Prophet
+1 Spider Spawning
+1 Splinterfright
+1 Springbloom Druid
+1 Status // Statue
+1 Storrev, Devkarin Lich
+13 Swamp
+1 Syr Konrad, the Grim
+1 Temple of Malady
+1 Terramorphic Expanse
+1 The Eldest Reborn
+1 The Mending of Dominaria
+1 Thrashing Brontodon
+1 Vindictive Vampire
+1 Viridian Emissary
+1 Vivid Grove
+1 Whisper, Blood Liturgist
+1 Woe Strider
+1 Yavimaya Elder
+1 Zulaport Cutthroat
+
