@@ -1,0 +1,70 @@
+1 Acidic Slime
+1 Advent of the Wurm
+1 Angelic Accord
+1 Armada Wurm
+1 Avacyn's Pilgrim
+1 Blossoming Sands
+1 Call of the Conclave
+1 Camaraderie
+1 Collective Blessing
+1 Conclave Cavalier
+1 Conclave Tribunal
+1 Decree of Justice
+1 Desolation Twin
+1 Devouring Light
+1 Druid's Deliverance
+1 Dryad Militant
+1 Elemental Bond
+1 Elvish Mystic
+1 Emmara Tandris
+1 End-Raze Forerunners
+17 Forest
+1 From Beyond
+1 Geist-Honored Monk
+1 Giant Adephage
+1 Glare of Subdual
+1 Grove of the Guardian
+1 Growing Ranks
+1 Harmonize
+1 Hour of Reckoning
+1 Intangible Virtue
+1 Kazandu Tuskcaller
+1 Llanowar Elves
+1 Loxodon Hierarch
+1 Martial Coup
+1 Mimic Vat
+1 Momentous Fall
+1 Moonsilver Spear
+1 Overrun
+1 Oviya Pashiri, Sage Lifecrafter
+1 Parhelion II
+1 Phyrexian Rebirth
+16 Plains
+1 Pledge of Unity
+1 Pollenbright Wings
+1 Rampaging Baloths
+1 Rampant Growth
+1 Return to Nature
+1 Rootborn Defenses
+1 Sandwurm Convergence
+1 Scion of Vitu-Ghazi
+1 Second Harvest
+1 Selesnya Charm
+1 Selesnya Cluestone
+1 Selesnya Evangel
+1 Selesnya Guildgate
+1 Selesnya Guildmage
+1 Selesnya Keyrune
+1 Selesnya Signet
+1 Serra Avatar
+1 Shamanic Revelation
+1 Sundering Growth
+1 Trostani's Judgment
+1 Trostani's Summoner
+1 Trostani, Selesnya's Voice
+1 Vitu-Ghazi Guildmage
+1 Vitu-Ghazi, the City-Tree
+1 Wayfaring Temple
+1 White Sun's Zenith
+1 Wood Elves
+
