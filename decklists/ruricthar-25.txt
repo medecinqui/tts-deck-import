@@ -1,0 +1,71 @@
+1 Abzan Beastmaster
+1 Acidic Slime
+1 Angrath's Marauders
+1 Arbor Elf
+1 Borborygmos
+1 Caustic Caterpillar
+1 Charging Cinderhorn
+1 Colossal Majesty
+1 Cultivate
+1 Drumhunter
+1 Elvish Mystic
+1 Elvish Visionary
+1 End-Raze Forerunners
+1 Fertilid
+1 Fierce Empath
+1 Fires of Yavimaya
+17 Forest
+1 Frontier Siege
+1 Garruk's Harbinger
+1 Garruk's Horde
+1 Garruk's Packleader
+1 Garruk's Uprising
+1 Genesis Hydra
+1 Grand Warlord Radha
+1 Grumgully, the Generous
+1 Gruul Ragebeast
+1 Gruul Turf
+1 Inferno Titan
+1 Karametra's Acolyte
+1 Keeper of Fables
+1 Khenra Charioteer
+1 Kogla, the Titan Ape
+1 Leafkin Avenger
+1 Llanowar Elves
+1 Llanowar Visionary
+1 Manglehorn
+1 Migration Path
+1 Molder Slug
+1 Molten Primordial
+1 Mosswort Bridge
+15 Mountain
+1 Nikya of the Old Ways
+1 Nylea's Forerunner
+1 Ogre Battledriver
+1 Pelakka Wurm
+1 Quartzwood Crasher
+1 Rampaging Baloths
+1 Rampant Growth
+1 Reclamation Sage
+1 Renata, Called to the Hunt
+1 Rishkar, Peema Renegade
+1 Rubblebelt Raiders
+1 Rubblehulk
+1 Ruric Thar, the Unbowed
+1 Savage Ventmaw
+1 Shamanic Revelation
+1 Soul of the Harvest
+1 Spinerock Knoll
+1 Sporeweb Weaver
+1 Springbloom Druid
+1 Temple of Abandon
+1 Thorn Mammoth
+1 Thrashing Brontodon
+1 Triumph of Ferocity
+1 Wall of Blossoms
+1 Wall of Roots
+1 Wild Growth
+1 Wood Elves
+1 Wrecking Ogre
+1 Zhur-Taa Druid
+
