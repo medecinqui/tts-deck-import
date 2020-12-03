@@ -1,0 +1,84 @@
+1 Alms Collector
+1 Angel of Destiny
+1 Anguished Unmaking
+1 Arcane Signet
+1 Ashnod's Altar
+1 Athreos, God of Passage
+1 Bastion of Remembrance
+1 Battletide Alchemist
+1 Bishop of Rebirth
+1 Blood Artist
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brightclimb Pathway // Grimclimb Pathway
+1 Cabal Archon
+1 Castle Locthwain
+1 Caves of Koilos
+1 Children of Korlis
+1 Cleansing Nova
+1 Command Tower
+1 Conspiracy
+1 Cruel Celebrant
+1 Custodi Lich
+1 Demon's Disciple
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dictate of Erebos
+1 Doomed Necromancer
+1 Edgewalker
+1 Enlightened Tutor
+1 Entomb
+1 Exquisite Blood
+1 Faith's Reward
+1 Fiend Hunter
+1 Flooded Strand
+1 Fumigate
+1 Generous Gift
+1 Godless Shrine
+1 Grim Haruspex
+1 Herald's Horn
+1 High Market
+1 Isolated Chapel
+1 Land Tax
+1 Lightning Greaves
+1 Mangara, the Diplomat
+1 Marsh Flats
+1 Merciless Eviction
+1 Mind Stone
+1 Orah, Skyclave Hierophant
+1 Orzhov Signet
+1 Path to Exile
+1 Patriarch's Bidding
+1 Phyrexian Reclamation
+1 Phyrexian Tower
+1 Pious Evangel // Wayward Disciple
+10 Plains
+1 Pontiff of Blight
+1 Priest of Gix
+1 Reliquary Tower
+1 Remorseful Cleric
+1 Rotlung Reanimator
+1 Sanguine Bond
+1 Selfless Spirit
+1 Skullclamp
+1 Sol Ring
+1 Soul Warden
+1 Species Specialist
+1 Suture Priest
+8 Swamp
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Tainted Field
+1 Talisman of Hierarchy
+1 Thriving Heath
+1 Thriving Moor
+1 Toxic Deluge
+1 Urza's Incubator
+1 Utter End
+1 Vindicate
+1 Vito, Thorn of the Dusk Rose
+1 Wayfarer's Bauble
+1 Weathered Wayfarer
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Wrath of God
+1 Zulaport Cutthroat

@@ -1,0 +1,97 @@
+1 Ancient Tomb
+1 Angrath's Marauders
+1 Arcane Signet
+1 Arid Mesa
+1 Azure Fleet Admiral
+1 Blade of Selves
+1 Blasphemous Act
+1 Blatant Thievery
+1 Bloodstained Mire
+1 Brass's Bounty
+1 Breeches, Brazen Plunderer
+1 Captain Lannery Storm
+1 Captain Vargus Wrath
+1 Captivating Crew
+1 Castle Vantress
+1 Chaos Warp
+1 Chart a Course
+1 Coastal Piracy
+1 Coastline Marauders
+1 Coercive Recruiter
+1 Command Beacon
+1 Command Tower
+1 Curse of Opulence
+1 Dack's Duplicate
+1 Deflecting Swat
+1 Dockside Extortionist
+1 Electrodominance
+1 Emberwilde Captain
+1 Fabled Passage
+1 Fact or Fiction
+1 Fathom Fleet Swordjack
+1 Fellwar Stone
+1 Fiery Islet
+1 Flame Fusillade
+1 Flooded Strand
+1 Force of Negation
+1 Fury Storm
+1 Glasspool Mimic // Glasspool Shore
+1 Herald's Horn
+1 Hullbreacher
+1 Imperial Recruiter
+1 Impulsive Pilferer
+1 Inspiring Statuary
+1 Insurrection
+3 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Jeska's Will
+1 Lightning Greaves
+1 Malcolm, Keen-Eyed Navigator
+1 Merchant Raiders
+1 Metallic Mimic
+1 Molten Echoes
+3 Mountain
+1 Mox Opal
+1 Mystic Sanctuary
+1 Path of Ancestry
+1 Polluted Delta
+1 Port Razer
+1 Prismatic Vista
+1 Protean Raider
+1 Reconnaissance Mission
+1 Reliquary Tower
+1 River's Rebuke
+1 Riverglide Pathway // Lavaglide Pathway
+1 Sea Gate Restoration // Sea Gate, Reborn
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Shared Animosity
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Shiny Impetus
+1 Shivan Reef
+1 Silundi Vision // Silundi Isle
+1 Siren Stormtamer
+1 Slippery Scoundrel
+1 Sol Ring
+1 Steam Vents
+1 Stolen Strategy
+1 Storm Fleet Sprinter
+1 Storm the Vault // Vault of Catlacan
+1 Strip Mine
+1 Sulfur Falls
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Thieving Skydiver
+1 Timestream Navigator
+1 Training Center
+1 Treasure Map // Treasure Cove
+1 Unclaimed Territory
+1 Underworld Breach
+1 Valakut Awakening // Valakut Stoneforge
+1 Vandalblast
+1 Wasteland
+1 Wheel of Misfortune
+1 Windfall
+1 Wooded Foothills
+1 Zara, Renegade Recruiter
+
