@@ -1,0 +1,83 @@
+1 Abomination of Llanowar
+1 Beast Whisperer
+1 Bloodline Pretender
+1 Bounty of Skemfar
+1 Canopy Tactician
+1 Casualties of War
+1 Command Tower
+1 Copperhorn Scout
+1 Crown of Skemfar
+1 Cultivator of Blades
+1 Dwynen, Gilt-Leaf Daen
+1 Elderfang Venom
+1 Elven Ambush
+1 Elvish Archdruid
+1 Elvish Dreadlord
+1 Elvish Guidance
+1 Elvish Mystic
+1 Elvish Promenade
+1 Elvish Warmaster
+1 End-Raze Forerunners
+1 Essence Warden
+1 Evolving Wilds
+9 Forest
+1 Foul Orchard
+1 Freyalise, Llanowar's Fury
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Guildless Commons
+1 Harald Unites the Elves
+1 Harvest Season
+1 Haunted Cloak
+1 Heroic Intervention
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Jarad's Orders
+1 Jungle Hollow
+1 Lathril, Blade of the Elves
+1 Marwyn, the Nurturer
+1 Mul Daya Channelers
+1 Myriad Landscape
+1 Nadier's Nightblade
+1 Nadier, Agent of the Duskenel
+1 Nightshade Harvester
+1 Numa, Joraga Chieftain
+1 Oran-Rief, the Vastwood
+1 Pact of the Serpent
+1 Path of Ancestry
+1 Poison the Cup
+1 Poison-Tip Archer
+1 Prowess of the Fair
+1 Putrefy
+1 Reclamation Sage
+1 Return Upon the Tide
+1 Rhys the Exiled
+1 Ruthless Winnower
+1 Second Harvest
+1 Seeker of Skybreak
+1 Shaman of the Pack
+1 Skemfar Avenger
+1 Skemfar Shadowsage
+1 Skyshroud Poacher
+1 Slaughter Pact
+1 Sol Ring
+12 Swamp
+1 Sylvan Offering
+1 Tainted Wood
+1 Temple of Malady
+1 Terramorphic Expanse
+1 Timberwatch Elf
+1 Umbral Mantle
+1 Unclaimed Territory
+1 Undergrowth Stadium
+1 Wellwisher
+1 Wirewood Channeler
+1 Wirewood Herald
+1 Wirewood Pride
+1 Wolverine Riders
+1 Wood Elves
+1 Woodland Chasm
+1 Wrap in Vigor
+
+
