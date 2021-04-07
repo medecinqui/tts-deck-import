@@ -1,0 +1,564 @@
+{
+  "object": "list",
+  "not_found": [
+
+  ],
+  "data": [
+    {
+      "object": "card",
+      "id": "7f430794-0d86-4f6a-97e0-4bbb6716d613",
+      "oracle_id": "fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57",
+      "multiverse_ids": [
+        386495
+      ],
+      "mtgo_id": 54198,
+      "mtgo_foil_id": 54199,
+      "tcgplayer_id": 92830,
+      "name": "Bloodstained Mire",
+      "lang": "en",
+      "released_at": "2014-09-26",
+      "uri": "https://api.scryfall.com/cards/7f430794-0d86-4f6a-97e0-4bbb6716d613",
+      "scryfall_uri": "https://scryfall.com/card/ktk/230/bloodstained-mire?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959",
+        "normal": "https://img.scryfall.com/cards/normal/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959",
+        "large": "https://img.scryfall.com/cards/large/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959",
+        "png": "https://img.scryfall.com/cards/png/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.png?1571667959",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.",
+      "colors": [
+
+      ],
+      "color_identity": [
+
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "pioneer": "banned",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "brawl": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal"
+      },
+      "games": [
+        "mtgo",
+        "paper"
+      ],
+      "reserved": false,
+      "foil": true,
+      "nonfoil": true,
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set": "ktk",
+      "set_name": "Khans of Tarkir",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/ktk?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/7f430794-0d86-4f6a-97e0-4bbb6716d613/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afc0707c7-d504-4ccf-a0d2-3eb6e26e7a57&unique=prints",
+      "collector_number": "230",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "Where dragons once triumphed, their bones now molder.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Daarken",
+      "artist_ids": [
+        "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+      ],
+      "illustration_id": "0cac1cb8-cb70-433c-adfa-6c5399a3b8d5",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 52,
+      "prices": {
+        "usd": "20.37",
+        "usd_foil": "45.32",
+        "eur": "16.84",
+        "tix": "4.63"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386495",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Bloodstained+Mire&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Bloodstained+Mire",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bloodstained+Mire"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=92830&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Khans-of-Tarkir/Bloodstained-Mire?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/54198?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "81298b0b-9d47-4777-998e-0c17821ef536",
+      "oracle_id": "819e1765-8325-4e6f-89c1-63ea86de369f",
+      "multiverse_ids": [
+        446050
+      ],
+      "mtgo_id": 68892,
+      "tcgplayer_id": 166661,
+      "name": "Luxury Suite",
+      "lang": "en",
+      "released_at": "2018-06-08",
+      "uri": "https://api.scryfall.com/cards/81298b0b-9d47-4777-998e-0c17821ef536",
+      "scryfall_uri": "https://scryfall.com/card/bbd/82/luxury-suite?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1562921010",
+        "normal": "https://img.scryfall.com/cards/normal/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1562921010",
+        "large": "https://img.scryfall.com/cards/large/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1562921010",
+        "png": "https://img.scryfall.com/cards/png/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.png?1562921010",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1562921010",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1562921010"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "Luxury Suite enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {B} or {R}.",
+      "colors": [
+
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "brawl": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal"
+      },
+      "games": [
+        "mtgo",
+        "paper"
+      ],
+      "reserved": false,
+      "foil": true,
+      "nonfoil": true,
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set": "bbd",
+      "set_name": "Battlebond",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/95f97fbc-58ef-4645-982e-43e2db6f1124",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abbd&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/bbd?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/81298b0b-9d47-4777-998e-0c17821ef536/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A819e1765-8325-4e6f-89c1-63ea86de369f&unique=prints",
+      "collector_number": "82",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "The view is rivaled only by the decadence of the decor.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Jonas De Ro",
+      "artist_ids": [
+        "561ebf9e-8d93-4b57-8156-8826d0c19601"
+      ],
+      "illustration_id": "4146eb35-df24-4334-b388-663391fd79f1",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 427,
+      "prices": {
+        "usd": "10.84",
+        "usd_foil": "27.78",
+        "eur": "7.21",
+        "tix": "0.29"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446050",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Luxury+Suite&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Luxury+Suite",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Luxury+Suite"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=166661&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Battlebond/Luxury-Suite?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/68892?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "213d6fb8-5624-4804-b263-51f339482754",
+      "oracle_id": "38a55562-1e2d-4240-9454-219a4a25d38d",
+      "multiverse_ids": [
+        450644
+      ],
+      "tcgplayer_id": 170800,
+      "name": "Lord Windgrace",
+      "lang": "en",
+      "released_at": "2018-08-09",
+      "uri": "https://api.scryfall.com/cards/213d6fb8-5624-4804-b263-51f339482754",
+      "scryfall_uri": "https://scryfall.com/card/c18/43/lord-windgrace?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/2/1/213d6fb8-5624-4804-b263-51f339482754.jpg?1561901707",
+        "normal": "https://img.scryfall.com/cards/normal/front/2/1/213d6fb8-5624-4804-b263-51f339482754.jpg?1561901707",
+        "large": "https://img.scryfall.com/cards/large/front/2/1/213d6fb8-5624-4804-b263-51f339482754.jpg?1561901707",
+        "png": "https://img.scryfall.com/cards/png/front/2/1/213d6fb8-5624-4804-b263-51f339482754.png?1561901707",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/2/1/213d6fb8-5624-4804-b263-51f339482754.jpg?1561901707",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/2/1/213d6fb8-5624-4804-b263-51f339482754.jpg?1561901707"
+      },
+      "mana_cost": "{2}{B}{R}{G}",
+      "cmc": 5.0,
+      "type_line": "Legendary Planeswalker — Windgrace",
+      "oracle_text": "+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.\n−3: Return up to two target land cards from your graveyard to the battlefield.\n−11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.\nLord Windgrace can be your commander.",
+      "loyalty": "5",
+      "colors": [
+        "B",
+        "G",
+        "R"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "R"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "213d6fb8-5624-4804-b263-51f339482754",
+          "component": "combo_piece",
+          "name": "Lord Windgrace",
+          "type_line": "Legendary Planeswalker — Windgrace",
+          "uri": "https://api.scryfall.com/cards/213d6fb8-5624-4804-b263-51f339482754"
+        },
+        {
+          "object": "related_card",
+          "id": "29c4e4f2-0040-4490-b357-660d729ad9cc",
+          "component": "token",
+          "name": "Cat Warrior",
+          "type_line": "Token Creature — Cat Warrior",
+          "uri": "https://api.scryfall.com/cards/29c4e4f2-0040-4490-b357-660d729ad9cc"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "brawl": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal"
+      },
+      "games": [
+        "paper"
+      ],
+      "reserved": false,
+      "foil": true,
+      "nonfoil": false,
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set": "c18",
+      "set_name": "Commander 2018",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/06ce6bc2-85cd-4cca-85b1-8c620d3e0902",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac18&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/c18?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/213d6fb8-5624-4804-b263-51f339482754/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38a55562-1e2d-4240-9454-219a4a25d38d&unique=prints",
+      "collector_number": "43",
+      "digital": false,
+      "rarity": "mythic",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Bram Sels",
+      "artist_ids": [
+        "2e90d3c1-e8ac-45c7-9d5a-63385c1a384d"
+      ],
+      "illustration_id": "d92b458f-5a6c-4cd0-b135-d62bbf521b36",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 1496,
+      "prices": {
+        "usd": null,
+        "usd_foil": "3.50",
+        "eur": "3.86",
+        "tix": null
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450644",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Lord+Windgrace&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Lord+Windgrace",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lord+Windgrace"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=170800&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2018/Lord-Windgrace-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lord+Windgrace&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "e4f184c5-4f3c-4aea-afa1-f0903d3cc71a",
+      "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+      "multiverse_ids": [
+        473220
+      ],
+      "mtgo_id": 78662,
+      "arena_id": 70405,
+      "tcgplayer_id": 199525,
+      "name": "Swamp",
+      "lang": "en",
+      "released_at": "2019-10-04",
+      "uri": "https://api.scryfall.com/cards/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a",
+      "scryfall_uri": "https://scryfall.com/card/eld/258/swamp?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.jpg?1572491327",
+        "normal": "https://img.scryfall.com/cards/normal/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.jpg?1572491327",
+        "large": "https://img.scryfall.com/cards/large/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.jpg?1572491327",
+        "png": "https://img.scryfall.com/cards/png/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.png?1572491327",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.jpg?1572491327",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.jpg?1572491327"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Basic Land — Swamp",
+      "oracle_text": "({T}: Add {B}.)",
+      "colors": [
+
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "brawl": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal"
+      },
+      "games": [
+        "arena",
+        "mtgo",
+        "paper"
+      ],
+      "reserved": false,
+      "foil": true,
+      "nonfoil": true,
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set": "eld",
+      "set_name": "Throne of Eldraine",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/eld?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+      "collector_number": "258",
+      "digital": false,
+      "rarity": "common",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Paul Scott Canavan",
+      "artist_ids": [
+        "c19bfb77-5099-4f7c-8585-6eaf367712c9"
+      ],
+      "illustration_id": "1b9cc763-2480-428c-bdca-2998220bd566",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "prices": {
+        "usd": "0.32",
+        "usd_foil": "0.45",
+        "eur": "0.08",
+        "tix": "0.01"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473220",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Swamp&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Swamp",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Swamp"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=199525&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Throne-of-Eldraine/Swamp-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/78662?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "547872bd-d2b3-4c24-b3fb-481e0c90c3c0",
+      "oracle_id": "fb868840-09fa-49b1-85cb-b08ad065e972",
+      "multiverse_ids": [
+        456681
+      ],
+      "mtgo_id": 70007,
+      "mtgo_foil_id": 70008,
+      "tcgplayer_id": 179459,
+      "name": "Bitterblossom",
+      "lang": "en",
+      "released_at": "2018-12-07",
+      "uri": "https://api.scryfall.com/cards/547872bd-d2b3-4c24-b3fb-481e0c90c3c0",
+      "scryfall_uri": "https://scryfall.com/card/uma/85/bitterblossom?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1547516750",
+        "normal": "https://img.scryfall.com/cards/normal/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1547516750",
+        "large": "https://img.scryfall.com/cards/large/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1547516750",
+        "png": "https://img.scryfall.com/cards/png/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.png?1547516750",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1547516750",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1547516750"
+      },
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "type_line": "Tribal Enchantment — Faerie",
+      "oracle_text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "25dd861f-ee63-4d79-b31b-173c9c336426",
+          "component": "combo_piece",
+          "name": "Bitterblossom",
+          "type_line": "Tribal Enchantment — Faerie",
+          "uri": "https://api.scryfall.com/cards/25dd861f-ee63-4d79-b31b-173c9c336426"
+        },
+        {
+          "object": "related_card",
+          "id": "67457137-64f2-413d-b62e-658b3f1b1043",
+          "component": "token",
+          "name": "Faerie Rogue",
+          "type_line": "Token Creature — Faerie Rogue",
+          "uri": "https://api.scryfall.com/cards/67457137-64f2-413d-b62e-658b3f1b1043"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "brawl": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal"
+      },
+      "games": [
+        "mtgo",
+        "paper"
+      ],
+      "reserved": false,
+      "foil": true,
+      "nonfoil": true,
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set": "uma",
+      "set_name": "Ultimate Masters",
+      "set_type": "masters",
+      "set_uri": "https://api.scryfall.com/sets/2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Auma&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/uma?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/547872bd-d2b3-4c24-b3fb-481e0c90c3c0/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb868840-09fa-49b1-85cb-b08ad065e972&unique=prints",
+      "collector_number": "85",
+      "digital": false,
+      "rarity": "mythic",
+      "flavor_text": "In Lorwyn's brief evenings, the sun pauses at the horizon long enough for a certain species of violet to bloom with the fragrance of mischief.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Jesper Ejsing",
+      "artist_ids": [
+        "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+      ],
+      "illustration_id": "079d1154-363b-4a28-99d4-dcc402512c37",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 1068,
+      "prices": {
+        "usd": "36.50",
+        "usd_foil": "54.29",
+        "eur": "27.52",
+        "tix": "13.72"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456681",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Bitterblossom&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Bitterblossom",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bitterblossom"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=179459&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ultimate-Masters/Bitterblossom?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/70007?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}
