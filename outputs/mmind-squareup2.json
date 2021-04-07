@@ -1721,25 +1721,25 @@
         "1": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_0.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_0.jpg",
           "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/sapphire.jpg"
         },
         "2": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_1.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_1.jpg",
           "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/sapphire.jpg"
         },
         "3": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_2.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_2.jpg",
           "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/sapphire.jpg"
         },
         "4": {
           "NumWidth": 5,
           "NumHeight": 3,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_3.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_3.jpg",
           "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/sapphire.jpg"
         }
       }
@@ -1833,7 +1833,7 @@
         "5": {
           "NumWidth": 5,
           "NumHeight": 1,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_t0.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_t0.jpg",
           "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/sapphire.jpg"
         }
       }
@@ -1876,8 +1876,8 @@
         "6": {
           "NumWidth": 2,
           "NumHeight": 1,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_tb0.jpg",
-          "BackURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup_tb0.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_tb0.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/images/mmind-squareup2_tb0.jpg",
           "UniqueBack": true
         }
       }
