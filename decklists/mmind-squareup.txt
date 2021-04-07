@@ -1,0 +1,84 @@
+1 Alchemist's Refuge
+1 Arbor Elf
+1 Beast Whisperer
+1 Beastmaster Ascension
+1 Benefactor's Draught
+1 Bred for the Hunt
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Coastal Piracy
+1 Coat of Arms
+1 Coiling Oracle
+1 Command Tower
+1 Commander's Sphere
+1 Cultivate
+1 Defiant Elf
+1 Edric, Spymaster of Trest
+1 Elvish Archdruid
+1 Elvish Clancaller
+1 Elvish Mystic
+1 Elvish Promenade
+1 Exotic Orchard
+1 Ezuri, Claw of Progress
+1 Ezuri, Renegade Leader
+1 Flooded Grove
+11 Forest
+1 Freyalise, Llanowar's Fury
+1 Fyndhorn Elves
+1 Gaea's Herald
+1 Gaea's Skyfolk
+1 Gigantiform
+1 Glistener Elf
+1 Growth Spiral
+1 Guardian Project
+1 Gyre Sage
+1 Hardened Scales
+1 Heroic Intervention
+1 Hinterland Harbor
+1 Imperious Perfect
+8 Island
+1 Ivy Lane Denizen
+1 Kodama's Reach
+1 Krosan Grip
+1 Levitation
+1 Lifecrafter's Bestiary
+1 Llanowar Elves
+1 Loyal Guardian
+1 Mana Confluence
+1 Marwyn, the Nurturer
+1 Mass Diminish
+1 Master Biomancer
+1 Mind Stone
+1 Misty Rainforest
+1 Nissa, Vastwood Seer // Nissa, Sage Animist
+1 Nykthos, Shrine to Nyx
+1 Oakhame Adversary
+1 Octopus Umbra
+1 Oracle of Mul Daya
+1 Oran-Rief, the Vastwood
+1 Path of Discovery
+1 Polymorphist's Jest
+1 Priest of Titania
+1 Realmwalker
+1 Reclamation Sage
+1 Reliquary Tower
+1 Retreat to Kazandu
+1 Shamanic Revelation
+1 Simic Signet
+1 Sol Ring
+1 Song of Freyalise
+1 Spire Tracer
+1 Steady Progress
+1 Strength of the Tajuru
+1 Swiftfoot Boots
+1 Tanazir Quandrix
+1 Temple of Mystery
+1 Temple of the False God
+1 Tezzeret's Gambit
+1 The Ozolith
+1 Thran Dynamo
+1 Tuskguard Captain
+1 Vanquisher's Banner
+1 Yavimaya Coast
+
